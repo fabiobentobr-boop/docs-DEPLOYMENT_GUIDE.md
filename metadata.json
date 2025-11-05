@@ -1,0 +1,8 @@
+
+{
+  "name": "Formulário de Adernamento",
+  "description": "Um aplicativo de formulário de vistoria para transportadoras, permitindo a coleta de dados, respostas a perguntas de conformidade e upload de fotos como evidência.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
